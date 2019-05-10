@@ -4,5 +4,4 @@ WPU machine:
 - preprocessing
 - map's layer
 - google maps details
-- API mobile
 - Node.JS colaboration
