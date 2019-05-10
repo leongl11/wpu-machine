@@ -1,0 +1,6 @@
+WPU machine:
+- Bee Algorithm
+- Machine learning MLP
+- preprocessing
+- map's layer
+- google maps details
